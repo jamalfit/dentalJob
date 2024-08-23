@@ -37,5 +37,23 @@
         "dentaljobs": {}
       }
     }
+  },
+  "sandbox": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dentaljobs-sandbox-b00ea-authRole",
+      "UnauthRoleArn": "arn:aws:iam::772894953870:role/amplify-dentaljobs-sandbox-b00ea-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::772894953870:role/amplify-dentaljobs-sandbox-b00ea-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dentaljobs-sandbox-b00ea-deployment",
+      "UnauthRoleName": "amplify-dentaljobs-sandbox-b00ea-unauthRole",
+      "StackName": "amplify-dentaljobs-sandbox-b00ea",
+      "StackId": "arn:aws:cloudformation:us-east-1:772894953870:stack/amplify-dentaljobs-sandbox-b00ea/1a1d67c0-6199-11ef-9d2d-128b6920b79b",
+      "AmplifyAppId": "dc4tawtx70rk"
+    },
+    "categories": {
+      "auth": {
+        "dentaljobs5c771284": {}
+      }
+    }
   }
 }
